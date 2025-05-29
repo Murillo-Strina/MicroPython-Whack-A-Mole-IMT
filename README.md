@@ -54,7 +54,7 @@ Esta seção mostra a evolução do nosso projeto Whack-A-Mole, desde os testes 
 
 **1. Montagem Inicial e Testes em Protoboard**
 
-![Protótipo inicial do Whack-A-Mole em protoboard](https://github.com/user-attachments/assets/76458efc-35c4-4216-a8f7-1a4b09dc4bf6)
+![Protótipo inicial do Whack-A-Mole em protoboard](https://github.com/user-attachments/assets/f8051607-cc44-425b-a89e-044e488cff90)
 
 Registro da fase inicial de montagem e testes do circuito Whack-A-Mole. Nesta etapa, focamos na validação das conexões elétricas entre o Raspberry Pi Pico, LEDs, botões e displays na protoboard, além de testar a funcionalidade básica de cada componente.
 
