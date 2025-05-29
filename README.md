@@ -44,6 +44,29 @@ Este projeto consiste no desenvolvimento de uma versão eletrônica do clássico
 
 ![Diagrama de Blocos do Projeto](https://github.com/user-attachments/assets/de01e727-5f15-40bd-9ee1-a73049b7c137)
 
+## Galeria do Projeto 📸🎬
+
+Nesta seção, apresentamos algumas imagens das etapas de desenvolvimento do nosso Whack-A-Mole, desde os protótipos iniciais até a montagem final, além de um vídeo demonstrando o jogo em funcionamento.
+
+### Prototipagem e Desenvolvimento
+
+Esta seção mostra a evolução do nosso projeto Whack-A-Mole, desde os testes iniciais em protoboard até a construção da estrutura final.
+
+**1. Montagem Inicial e Testes em Protoboard**
+
+![Protótipo inicial do Whack-A-Mole em protoboard](https://github.com/user-attachments/assets/76458efc-35c4-4216-a8f7-1a4b09dc4bf6)
+
+Registro da fase inicial de montagem e testes do circuito Whack-A-Mole. Nesta etapa, focamos na validação das conexões elétricas entre o Raspberry Pi Pico, LEDs, botões e displays na protoboard, além de testar a funcionalidade básica de cada componente.
+
+**2. Desenvolvimento da Estrutura em MDF**
+
+![Estrutura da caixa do Whack-A-Mole em MDF](https://github.com/user-attachments/assets/0b1f3e1d-4617-4991-b815-d4a202f55e3a)
+
+A estrutura que abriga todo o circuito do nosso Whack-A-Mole. Utilizamos MDF como material principal devido à sua facilidade de modelagem e acabamento. Cada face da caixa foi desenhada no software CAD SolidWorks, permitindo um planejamento preciso dos encaixes e aberturas para os LEDs, botões e displays.
+
+**3. Vídeo do Projeto completo**
+(EM PRODUÇÃO) 🔧
+
 ## Integrantes 💻
 
 * Pedro Campos Dec | 22.00787-3
