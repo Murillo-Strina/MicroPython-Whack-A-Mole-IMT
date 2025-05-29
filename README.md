@@ -60,7 +60,7 @@ Registro da fase inicial de montagem e testes do circuito Whack-A-Mole. Nesta et
 
 **2. Desenvolvimento da Estrutura em MDF**
 
-![Estrutura da caixa do Whack-A-Mole em MDF](https://github.com/user-attachments/assets/0b1f3e1d-4617-4991-b815-d4a202f55e3a)
+![Estrutura da caixa do Whack-A-Mole em MDF](https://github.com/user-attachments/assets/85d055eb-1b04-4773-be3f-c6b85cf16fd7)
 
 A estrutura que abriga todo o circuito do nosso Whack-A-Mole. Utilizamos MDF como material principal devido à sua facilidade de modelagem e acabamento. Cada face da caixa foi desenhada no software CAD SolidWorks, permitindo um planejamento preciso dos encaixes e aberturas para os LEDs, botões e displays.
 
