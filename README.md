@@ -42,7 +42,7 @@ Este projeto consiste no desenvolvimento de uma versão eletrônica do clássico
 
 ## Diagrama de Blocos 📊
 
-![Diagrama de Blocos do Projeto](https://github.com/user-attachments/assets/de01e727-5f15-40bd-9ee1-a73049b7c137)
+![Diagrama de Blocos do Projeto](https://github.com/user-attachments/assets/8531ee9b-5d12-4b4d-affe-22301ee569c8)
 
 ## Galeria do Projeto 📸🎬
 
