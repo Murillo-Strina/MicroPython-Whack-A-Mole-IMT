@@ -72,7 +72,7 @@ Nesta etapa, o circuito eletrônico foi cuidadosamente integrado à estrutura de
 
 ### Vídeo do Projeto completo
 
-https://github.com/user-attachments/assets/f179316b-8c58-42ad-bc75-ecf3c2878ba5
+https://github.com/user-attachments/assets/b5f4ae2c-0bf5-4c18-a005-e4c2faa4b4fc
 
 ## Integrantes 💻
 
