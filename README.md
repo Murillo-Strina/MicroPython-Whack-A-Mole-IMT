@@ -64,12 +64,19 @@ Registro da fase inicial de montagem e testes do circuito Whack-A-Mole. Nesta et
 
 A estrutura que abriga todo o circuito do nosso Whack-A-Mole. Utilizamos MDF como material principal devido à sua facilidade de modelagem e acabamento. Cada face da caixa foi desenhada no software CAD SolidWorks, permitindo um planejamento preciso dos encaixes e aberturas para os LEDs, botões e displays.
 
+**3. Integração Final do Circuito e Acabamento**
+
+![Construção completa do projeto](https://github.com/user-attachments/assets/ff81260c-bd76-4f68-8d3e-c515afdd9ab1)
+
+Nesta etapa, o circuito eletrônico foi cuidadosamente integrado à estrutura de MDF, resultando em um design coeso e funcional para o Whack-A-Mole. É importante notar que os pequenos botões visíveis na imagem serviram apenas para testes iniciais, sendo substituídos na versão final por botões push button C&K maiores, otimizando a jogabilidade.
+
 ### Vídeo do Projeto completo
 
-(EM PRODUÇÃO) 🔧
+https://github.com/user-attachments/assets/f179316b-8c58-42ad-bc75-ecf3c2878ba5
 
 ## Integrantes 💻
 
 * Pedro Campos Dec | 22.00787-3
 * Guilherme Martins Souza Paula | 22.00006-2
 * Murillo Penha Strina | 22.00730-0
+* Lucas Olivares Borges da Silva | 22.00889-6
