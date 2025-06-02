@@ -16,6 +16,20 @@ Este projeto consiste no desenvolvimento de uma versão eletrônica do clássico
 * Jumpers Macho-Macho e Macho-Fêmea (para as conexões)
 * Estrutura/Caixa em MDF (para o suporte físico e montagem do jogo)
 
+## Custo Médio de Produção 💲
+
+* Raspberry pi pico: R$46,99
+* Botão push button C&K: R$ 28,00 por unidade / R$ 84,00 total
+* LED difuso 5mm: R$0,14 por unidade / R$0,42 total
+* Display 7 segmentos: R$2,37 por unidade / R$4,74 total
+* Resistor 200 Ohm: R$ 2,84
+* Resistor 300 Ohm: R$ 0,61 por unidade / R$ 1,22 total
+* Capacitores 10nf / 250v: R$ 1,49 por unidade / R$ 4,47
+* Protoboard 830 pontos: R$ 10,97
+* Jumpers (kit de 40 unidades): R$ 9,00
+* MDF: R$ 5,26 para área total
+* Custo total: R$ 169,91
+
 ## Requisitos 📜
 
 * **UR01 (Obrigatório):** O sistema deve ser construído com componentes eletrônicos de fácil acesso, montado em uma protoboard e acondicionado em uma estrutura de MDF.
