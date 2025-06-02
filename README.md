@@ -1,4 +1,4 @@
-# Whack-A-Mole com MicroPython 🐹
+![FotoProjeto](https://github.com/user-attachments/assets/b4694c62-9508-4ec4-838f-959f57c093ac)# Whack-A-Mole com MicroPython 🐹
 
 Implementação do jogo Whack-A-Mole usando MicroPython e Raspberry Pi Pico. Projeto realizado para a disciplina de Microcontroladores e Sistemas Embarcados no Instituto Mauá de Tecnologia.
 
@@ -94,3 +94,6 @@ https://github.com/user-attachments/assets/b5f4ae2c-0bf5-4c18-a005-e4c2faa4b4fc
 * Guilherme Martins Souza Paula | 22.00006-2
 * Murillo Penha Strina | 22.00730-0
 * Lucas Olivares Borges da Silva | 22.00889-6
+
+![FotoIntegrantes](https://github.com/user-attachments/assets/0daaaff0-ccd7-4948-a823-202e7f7016ec)
+
