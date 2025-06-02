@@ -1,4 +1,4 @@
-![FotoProjeto](https://github.com/user-attachments/assets/b4694c62-9508-4ec4-838f-959f57c093ac)# Whack-A-Mole com MicroPython 🐹
+# Whack-A-Mole com MicroPython 🐹
 
 Implementação do jogo Whack-A-Mole usando MicroPython e Raspberry Pi Pico. Projeto realizado para a disciplina de Microcontroladores e Sistemas Embarcados no Instituto Mauá de Tecnologia.
 
