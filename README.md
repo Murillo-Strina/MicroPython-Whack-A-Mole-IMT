@@ -95,5 +95,5 @@ https://github.com/user-attachments/assets/b5f4ae2c-0bf5-4c18-a005-e4c2faa4b4fc
 * Murillo Penha Strina | 22.00730-0
 * Lucas Olivares Borges da Silva | 22.00889-6
 
-![FotoIntegrantes](https://github.com/user-attachments/assets/0daaaff0-ccd7-4948-a823-202e7f7016ec)
+<!--![FotoIntegrantes](https://github.com/user-attachments/assets/0daaaff0-ccd7-4948-a823-202e7f7016ec)"-->
 
